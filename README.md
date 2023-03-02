@@ -454,3 +454,16 @@ Make sure you've completed the following assignments:
 * [Another interactive tool to learn Git concepts using a browser](https://learngitbranching.js.org/)
 * [Pro Git v2 - a full and free ebook for an in-depth understanding of Git](https://git-scm.com/book/en/v2)
 * [Atlassian's Git tutorials](https://www.atlassian.com/git/tutorials)
+
+
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
